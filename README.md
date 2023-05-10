@@ -31,6 +31,6 @@
 
 ### Top Languages
 
-[![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)
+![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=radical)
 
 
