@@ -24,13 +24,13 @@
 
 ### GitHub stats
 
-![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&theme=dracula&show_icons=true)
+[![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&theme=dracula&show_icons=true)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=dracula&" alt="lebrancconvas" /></p> 
 
 ### Top Languages
 
-![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)
+[![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)
 
 
