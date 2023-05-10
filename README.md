@@ -22,11 +22,11 @@
 
 ### GitHub stats
 
-![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)
+[![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)](https://github.com/Akthas-Absar123)
 
 ### Streak stats
 
-![Akthas-Absar123's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=dracula)
+[![Akthas-Absar123's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=dracula)](https://github.com/Akthas-Absar123)
 
 ### Top Languages
 
