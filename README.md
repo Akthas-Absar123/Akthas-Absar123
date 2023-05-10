@@ -16,17 +16,17 @@
 - 📄 Please have a look at my resume for more details about me. I'm open to feedback and suggestions!
 - 💡 Fun fact: Me and My laptop are unstoppable when it comes to engaging in studies.⚡
 
-### Github Trophies 🏆
+### GitHub Trophies 🏆
 
 [![Akthas-Absar123's trophy](https://github-profile-trophy.vercel.app/?username=Akthas-Absar123&theme=onedark)](https://github.com/Akthas-Absar123)
 
-<img align="center" width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akthas-Absar123&line_height=21&theme=dracula"> 
-
 ### GitHub stats
 
-[![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)](https://github.com/Akthas-Absar123)
+![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=dracula&" alt="lebrancconvas" /></p> 
+### Streak stats
+
+![Akthas-Absar123's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=dracula)
 
 ### Top Languages
 
