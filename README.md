@@ -24,7 +24,7 @@
 
 ### GitHub stats
 
-![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&theme=dark&show_icons=true)
+![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&theme=darcula&show_icons=true)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=dracula&" alt="lebrancconvas" /></p> 
