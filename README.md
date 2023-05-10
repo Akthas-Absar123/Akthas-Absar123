@@ -18,19 +18,19 @@
 
 ### Github Trophies 🏆
 
-[![Akthas-Absar123's trophy](https://github-profile-trophy.vercel.app/?username=Akthas-Absar123&theme=darcula)](https://github.com/Akthas-Absar123)
+[![Akthas-Absar123's trophy](https://github-profile-trophy.vercel.app/?username=Akthas-Absar123&theme=dracula)](https://github.com/Akthas-Absar123)
 
-<img align="center" width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akthas-Absar123&line_height=21&theme=darcula"> 
+<img align="center" width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akthas-Absar123&line_height=21&theme=dracula"> 
 
 ### GitHub stats
 
-![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&theme=darcula&show_icons=true)
+![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&theme=dracula&show_icons=true)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=darcula&" alt="lebrancconvas" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akthas-Absar123&theme=dracula&" alt="lebrancconvas" /></p> 
 
 ### Top Languages
 
-![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=darcula)
+![Akthas-Absar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akthas-Absar123&show_icons=true&theme=dracula)
 
 
